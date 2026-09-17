@@ -1,0 +1,2 @@
+PNR: 100000001 | Train: Karnataka Express | Seat: Row 3 Seat 5
+PNR: 100000001 | Train: Karnataka Express | Seat: Row 3 Seat 7
